@@ -1,0 +1,19 @@
+{
+  "name": "Copilot Studio Knowledge Readiness",
+  "description": "Assess whether a SharePoint site, public/internal site, Dataverse table, or document set is ready to power a Copilot Studio agent. Produces a readiness score, prioritized cleanup backlog, chunking and metadata guidance, and a test-prompt suite.",
+  "platforms": ["Copilot Studio"],
+  "tags": [
+    "copilot-studio",
+    "knowledge",
+    "rag",
+    "sharepoint",
+    "dataverse",
+    "governance",
+    "readiness",
+    "assessment"
+  ],
+  "author": "Jay Padimiti",
+  "version": "1.0.0",
+  "createdAt": "2026-06-22",
+  "updatedAt": "2026-06-22"
+}
